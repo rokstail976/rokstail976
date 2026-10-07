@@ -7,7 +7,7 @@
 Разрабатываю мобильные приложения и backend-сервисы, работаю с API, базами данных и современными инструментами разработки.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rokstail-181717?style=for-the-badge\&logo=github)](https://github.com/rokstail)
-[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/@Rokstail3)
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rokstail3)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Написать-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/+77083402875)
 
 </div>
@@ -198,9 +198,9 @@ Backend-сервисы и REST API для мобильных и веб-прил�
 
 ### 📬 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rokstail3)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Написать-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/YOUR_PHONE)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Написать-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/+77083402875)
 
 </div>
 
@@ -208,8 +208,9 @@ Backend-сервисы и REST API для мобильных и веб-прил�
 
 <div align="center">
 
-### 💻 Build • Learn • Create
+  
+ 💻 Build • Learn • Create
 
-**Thanks for visiting my profile! 🚀**
-
+ 
 </div>
+
